@@ -1,0 +1,11 @@
+Algumas fontes utilizadas para treinar o notebookLM:
+
+Guia Introdutório à POO com Python (DIO): Base fundamental para os conceitos de classes e objetos: https://www.dio.me/articles/guia-introdutorio-a-programacao-orientada-a-objetos-com-python-d2f56ce5886c
+
+A Base Secreta da POO: Interfaces (DIO): Leitura avançada sobre contratos e interfaces em Python, essencial para entender desacoplamento: https://www.dio.me/articles/a-base-secreta-da-programacao-orientada-a-objetos-em-python-interfaces-dfa9fdf6f2fb
+
+O que é POO? Conceitos de Programação Orientada a Objetos (Alura): Um panorama geral sobre os quatro pilares (Herança, Polimorfismo, Encapsulamento e Abstração): https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos
+
+Abstração - Pilar Central de POO (Curso em vídeo): https://www.youtube.com/watch?v=XNHNYO7Dt9Q&pp=ygUrQWJzdHJhw6fDo28gLSBQaWxhciBDZW50cmFsIGRlIFBPTyAoQXVsYSA4KQ%3D%3D
+
+Aprenda Python em 1 Hora (Dev Aprender): Utilizado para validar a sintaxe moderna, estruturas de controle e a lógica inicial do sistema: Fonte crucial para desmistificar o conceito de abstração e como modelar problemas do mundo real em códigohttps://www.youtube.com/watch?v=2uBrqwj70TQ&pp=ygUmQXByZW5kYSBQeXRob24gZW0gMSBIb3JhIChEZSBWZXJkYWRlISk%3D
