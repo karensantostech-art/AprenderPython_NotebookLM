@@ -29,7 +29,7 @@ Para esse projeto foi utilizado:
 - Git & GitHub: Ferramentas para controle de versão e publicação do projeto.
 
 # Metodologia e Cicatrizes
-O método utilizado envolveu treinar o notebookLM com fontes confiáveis do assunto e uma curadoria ativa, por meio de prompts que me permitiram chegar nas melhores respostas. Segue mais detalhes:
+O método utilizado envolveu treinar o [notebookLM](https://notebooklm.google.com/notebook/34050ad6-ca9f-49c1-b8dc-ec47f57752cd?authuser=1) com fontes confiáveis do assunto e uma curadoria ativa, por meio de prompts que me permitiram chegar nas melhores respostas. Segue mais detalhes:
 
 - Alimentação com fontes confiáveis, de modo que todo o conhecimento do notebook estivesse apenas nas fontes disponibilizadas;
 - Interrogatório Técnico realizado com prompts estratégicos sobre vários aspectos do objeto de estudo;
