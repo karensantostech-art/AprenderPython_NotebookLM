@@ -19,9 +19,9 @@ e trouxe ótimas analogias para o entendimento, seguindo a ordem lógica da noss
 Prompt 3: Mais cedo você falou sobre laços de repetição. De acordo com as fontes, o que e quais são estruturas de repetição e quando utilizá-las?
 Traga exemplos práticos mostrando quando e porque usar cada uma.
 
-Análise: Mais uma resposta satisfatória, que engolbou as definições de fácil entendimento, mostrou bem a diferenças, mostrou porque, como e quando utilizá-las,
-abordou as palavras reservadas como: Break, Continue e Range; Além dos exemplos práticos bem relacionados, pra melhorar a explicação ainda mais, pedir a geração
-de exemplos valores e código, pois os exeplos dados foram mais contextuais do que práticos em si 
+Análise: Mais uma resposta satisfatória, que englobou as definições com facilidadde de entendimento, mostrou bem a diferenças, porquê, como e quando utilizá-las,
+abordou as palavras reservadas como: Break, Continue e Range; Além dos exemplos práticos bem relacionados. Pra melhorar a explicação ainda mais, pedir a geração
+de exemplos com valores e código, pois os exemplos dados foram mais contextuais do que práticos em si 
 
 
 Prompt 4: "Liste os princípios de Orientação a Objetos (como Herança, Encapsulamento e Polimorfismo) 
@@ -29,9 +29,9 @@ que aparecem nos meus documentos e dê um exemplo de código Python para cada um
 baseando-se nas fontes."
 
 Análise: A IA me trouxe a explicação dos 4 pilares da POO, mas a explicação sobre abstração e polimorfismo não ficou muito clara
-por isso pedir para ela explicar novament esses dois conceitos de forma mais fácil, o que envolveu uma explicação mais clara dos
+por isso pedir para ela explicar novamente esses dois conceitos de forma mais fácil, o que envolveu uma explicação mais clara dos
 exemplos utilizados no início; Além disso a primeira explicação sobre encapsulamento só citou a questão da convenção de forma básica,
-então também pedir para explicar porque o encapsulamento em python era uma convenção, o que envolveu uma boa e completa explicação
+então também pedi para explicar porque o encapsulamento em python era uma convenção, o que envolveu uma boa e completa explicação
 
 
 Prompt 5: "Explique um erro comum de iniciante ao usar POO em Python e como resolvê-lo"
@@ -50,14 +50,14 @@ variáveis compostas até POO, dando uma sequência lógica, capaz de qualquer p
 
 Prompt 7: "Crie um resumo em tópicos dos 5 conceitos mais importantes presentes nas fontes"
 
-Análise: A IA retornou e trouxe um exemplete e breve resumo dos seguintes tópicos: 
+Análise: A IA retornou e trouxe um breve resumo dos seguintes tópicos: 
 1. POO
 2. Estruturas de Dados Compostas
 3. Estruturas de Controle de Fluxo
 4. Modularização e Funções
 5. Tratamento de Erros e Exceções
 
-De acordo com meu estudos e pesquisas que sim esses tópicos são bem importantes, porém nessa ordem, levando em consideração o trilha de aprendizado,
+De acordo com meu estudos e pesquisas, sim esses tópicos são bem importantes, porém nessa ordem, levando em consideração o trilha de aprendizado,
 essa ordem pode ser mais difícil de ser aplicada
 
 
