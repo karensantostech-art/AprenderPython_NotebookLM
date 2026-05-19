@@ -5,8 +5,8 @@ Este guia é o resultado consolidado de um processo de curadoria ativa utilizand
 O aprendizado de Python deve seguir uma progressão lógica: da sintaxe básica à estruturação de sistemas complexos. A Programação Orientada a Objetos (POO) e APIs são o topo dessa pirâmide, exigindo a base de lógica e funções consolidada.
 
 ###### 1. Iniciante:
-- Foco principal: Base e Lógica	Variáveis
-- Tópicos Chaves: Tipos Primitivos, Operadores e Controle de Fluxo (if/else).
+- Foco principal: Base e Lógica
+- Tópicos Chaves: Variáveis, Tipos Primitivos, Operadores e Controle de Fluxo (if/else).
 
 ###### 2. Fundamental:
 - Foco Principal: Estruturas e Loops
@@ -35,7 +35,7 @@ Variáveis e Tipos: Espaços na memória para int, float, str e bool.
 **2. Controle de Fluxo e Repetição**
 
 - Condicionais: Tomada de decisão lógica.
-- Loops: O for é utilizado para iterações definidas (sequências), enquanto o while foca em repetições baseadas em condições lógicas.
+- Loops: O **for** é utilizado para iterações definidas (sequências), enquanto o **while** foca em repetições baseadas em condições lógicas.
 
 **3. Modularização e Organização**
 
@@ -54,7 +54,7 @@ Paradigma que organiza o código em torno de Objetos (instâncias) criados a par
 
 **5. Tratamento de Erros**
 
-- Exceções: Uso de try/except para capturar falhas e finally para ações de limpeza, garantindo que o programa não interrompa o fluxo abruptamente.
+- Exceções: Uso de **try/except** para capturar falhas e **finally** para ações de limpeza, garantindo que o programa não interrompa o fluxo abruptamente.
 
 # Glossário
 
