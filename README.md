@@ -5,7 +5,7 @@ NotebookLM criado para ajudar nos estudos de Python desde os fundamentos iniciai
 
 **Acesse o Miniguia de Python**: [Para acessar um miniguia do assunto escolhido clique aqui](guia_de_estudos/MINI_GUIA_DE_ESTUDOS.md)
 
-Este repositório é um projeto com fins educacionais que envolveu a exploração do potencial da Inteligência Artificial a partir da criação de um notebookLM com o objetivo de ajudar nos estudos e aprendizado de Python desde os fundamentos iniciais até Programação Orientada a objetos e alguns conceitos de APIs; usando como fontes artigos e vídeos de grandes nomes da tecnologia no brasil e do exterior como Alura, DIO, Curso em vídeo, entre outros. [Para acessar algumas das fontes utilizadas nesse projeto clique aqui](/fonte/FONTES_UTILIZADAS.md)
+Este repositório é um projeto com fins educacionais que envolveu a exploração do potencial da Inteligência Artificial a partir da criação de um notebookLM com o objetivo de ajudar nos estudos e aprendizado de Python desde os fundamentos iniciais até Programação Orientada a objetos e alguns conceitos de APIs; usando como fontes artigos e vídeos de grandes nomes da tecnologia no brasil e do exterior como Alura, DIO, Curso em vídeo, entre outros. [Para acessar algumas das fontes utilizadas nesse projeto clique aqui](fonte/FONTES_UTILIZADAS.md)
 
 # Objetivos
 O projeto tem como visão principal a capacidade da IA em ser treinada e sintetizar conhecimento de um determinado assunto com base em fontes escolhidas. Segue os objetivos principais do projeto:
