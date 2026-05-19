@@ -24,3 +24,12 @@ Para esse projeto foi utilizado:
 - Markdown: Linguagem de marcação utilizada para a documentação e estruturação deste repositório;
 - Git & GitHub: Ferramentas para controle de versão e publicação do projeto.
 
+# Metodologia e Cicatrizes
+O método utilizado envolveu treinar o notebookLM com fontes confiáveis do assunto e uma curadoria ativa, por meio de prompts que me permitiram chegar nas melhores respostas. Segue mais detalhes:
+
+- Alimentação com fontes confiáveis, de modo que todo o conhecimento do notebook estivesse apenas nas fontes disponibilizadas;
+- Interrogatório Técnico realizado com prompts estratégicos sobre vários aspectos do objeto de estudo;
+- A identificação de cicatrizes com o objetivo de encontrar lacunas existentes nas respostas dadas;
+- Refinamento de Prompt com o objetivo de chegar na melhor e mais completa resposta de acordo com o pedido do usuário (Didática, profunda, prática)
+
+[Todo esse processo de conversa com a IA está documentado detalhadamente no arquivo](documentacao/ENGENHARIA_DE_PROMPTS.md).
