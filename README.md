@@ -3,9 +3,9 @@ NotebookLM criado para ajudar nos estudos de Python desde os fundamentos iniciai
 
 **Acesse o NotebookLM deste projeto**: [CLIQUE AQUI PARA ACESSAR O NOTEBOOK](https://notebooklm.google.com/notebook/34050ad6-ca9f-49c1-b8dc-ec47f57752cd?)
 
-**Acesse o Miniguia de Python**: [Para acessar um miniguia dos assunto escolhido clique aqui](guia_de_estudos/MINI_GUIA_DE_ESTUDOS)
+**Acesse o Miniguia de Python**: [Para acessar um miniguia do assunto escolhido clique aqui](guia_de_estudos/MINI_GUIA_DE_ESTUDOS.md)
 
-Este repositório é um projeto com fins educacionais que envolveu a exploração do potencial da Inteligência Artificial a partir da criação de um notebookLM com o objetivo de ajudar nos estudos e aprendizado de Python desde os fundamentos iniciais até Programação Orientada a objetos e alguns conceitos de APIs; usando como fontes artigose vídeos de grandes nomes da tecnologia no brasil e do exterior como Alura, DIO, Curso em vídeo, entre outros. [Para acessar algumas das fontes utilizadas nesse projeto clique aqui](/fonte/FONTES_UTILIZADAS)
+Este repositório é um projeto com fins educacionais que envolveu a exploração do potencial da Inteligência Artificial a partir da criação de um notebookLM com o objetivo de ajudar nos estudos e aprendizado de Python desde os fundamentos iniciais até Programação Orientada a objetos e alguns conceitos de APIs; usando como fontes artigos e vídeos de grandes nomes da tecnologia no brasil e do exterior como Alura, DIO, Curso em vídeo, entre outros. [Para acessar algumas das fontes utilizadas nesse projeto clique aqui](/fonte/FONTES_UTILIZADAS.md)
 
 # Objetivos
 O projeto tem como visão principal a capacidade da IA em ser treinada e sintetizar conhecimento de um determinado assunto com base em fontes escolhidas. Segue os objetivos principais do projeto:
@@ -36,4 +36,4 @@ O método utilizado envolveu treinar o [notebookLM](https://notebooklm.google.co
 - A identificação de cicatrizes com o objetivo de encontrar lacunas existentes nas respostas dadas;
 - Refinamento de Prompt com o objetivo de chegar na melhor e mais completa resposta de acordo com o pedido do usuário (Didática, profunda, prática)
 
-[Todo esse processo de conversa com a IA está documentado detalhadamente no arquivo](documentacao/ENGENHARIA_DE_PROMPTS.md).
+[Clique aqui para ter acesso à conversa com a IA](documentacao/ENGENHARIA_DE_PROMPTS.md).
