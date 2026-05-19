@@ -1,6 +1,6 @@
 # AprenderPython_NotebookLM
 
-[Imagem do projeto](https://chatgpt.com/s/m_6a0c546bcd408191aee782bbe54d8bbe)
+[Imagem do projeto](Imagem-Projeto.png)
 
 NotebookLM criado para ajudar nos estudos de Python desde os fundamentos iniciais até os principais conceitos de Python Orientado a Objetos e também um pouco sobre APIs
 
