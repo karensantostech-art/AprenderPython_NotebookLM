@@ -40,3 +40,5 @@ O método utilizado envolveu treinar o [notebookLM](https://notebooklm.google.co
 - Refinamento de Prompt com o objetivo de chegar na melhor e mais completa resposta de acordo com o pedido do usuário (Didática, profunda, prática)
 
 [Clique aqui para ter acesso à conversa com a IA](documentacao/ENGENHARIA_DE_PROMPTS.md).
+
+Projeto desenvolvido como parte do desafio co IA do curso Bootcamp de python da DIO com a Luizalabs.
